@@ -1,4 +1,4 @@
-# Titanic_error_matrix
+# Confusion Matrix and computed the models precision, recall and f-Score for Titanic dataset
 
 Exploration data where I am, checked about missing data. During the data preprocessing part, I computed missing values, converted features into numeric ones,
 grouped values into categories and created a few new features. Afterwards Istarted training 2 different machine learning models.
